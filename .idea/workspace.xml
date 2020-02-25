@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dd0c2e-be4b-460f-bd86-440ca18e66b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prog1/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/JavaBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/SampleVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/ShiftOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/src/prct2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/src/ControllStatments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/src/grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +33,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.grade">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calc" />
       <module name="prog1" />
@@ -50,8 +41,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBlocks" />
+    <configuration name="ControllStatments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControllStatments" />
       <module name="prog1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,13 +55,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShiftOp" />
-      <module name="prog1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="prog1" />
@@ -78,20 +62,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grade" />
+      <module name="prog1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.JavaBlocks" />
-      <item itemvalue="Application.Operators" />
-      <item itemvalue="Application.ShiftOp" />
       <item itemvalue="Application.Calc" />
+      <item itemvalue="Application.ControllStatments" />
+      <item itemvalue="Application.Operators" />
       <item itemvalue="Application.Variables" />
+      <item itemvalue="Application.grade" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.grade" />
+        <item itemvalue="Application.ControllStatments" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.ShiftOp" />
-        <item itemvalue="Application.JavaBlocks" />
       </list>
     </recent_temporary>
   </component>
@@ -113,38 +104,46 @@
       <option name="project" value="LOCAL" />
       <updated>1581137123674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project upload">
+      <created>1581744142318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581744142318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project uplod" />
-    <option name="LAST_COMMIT_MESSAGE" value="project uplod" />
+    <MESSAGE value="project upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="project upload" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581397412861">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581397412861" />
-    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1581744131544">
+    <state x="424" y="10" key="CommitChangelistDialog2" timestamp="1582605554757">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581744131544" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581743978297">
+    <state x="424" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582605554757" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582605521719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581743978297" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581743978297">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582605521719" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582605521719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581743978297" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581743978297">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582605521719" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582605521718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581743978297" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581743978297">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582605521718" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582605521719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581743978297" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582605521719" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581400934048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -161,10 +160,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581400934048" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1581137143621">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1581744145978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581137143621" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581744145978" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581137044762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
